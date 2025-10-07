@@ -104,3 +104,10 @@ Include profile photos for each employee.
 Add sorting and pagination for large employee lists.
 
 Make it a progressive web app (PWA) for offline use.
+
+Project Description
+
+The Employee Directory with Search is a frontend web application that allows users to quickly view and search employee information. Employees are displayed in responsive cards showing name, department, role, email, and contact.
+
+The app features real-time search by name, department, or role, making it easy to find information without scrolling through long lists. Built entirely with HTML, CSS, and JavaScript, it runs as a static website and is ideal for prototypes, classroom projects, or internal directories.
+
